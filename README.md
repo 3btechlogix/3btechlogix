@@ -67,7 +67,7 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
   	<td align="center"><img src="https://icon.icepanel.io/Technology/svg/WooCommerce.svg" alt="WooCommerce" width="48" height="48" /><br>Woo Commerce</td>
   	<td align="center"><img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="Vite.js" width="48" height="48" /><br>Vite.js</td>
   	<td align="center"><img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" alt="Ubuntu" width="48" height="48" /><br>Ubuntu</td>
-  	<td align="center"><img src="https://www.freeradius.org/img/octo-signal.svg" alt="FreeRadius" width="48" height="48" /><br>FreeRadius</td>
+  	<td align="center"><img src="https://www.freeradius.org/img/octo-signal.svg" alt="FreeRadius" width="48" height="48" /><br>Free Radius</td>
   	<td align="center"><img src="https://icon.icepanel.io/Technology/svg/Debian.svg" alt="Debian" width="48" height="48" /><br>Debian</td>
   	<td align="center"><img src="https://icon.icepanel.io/Technology/svg/CentOS.svg" alt="CentOS" width="48" height="48" /><br>CentOS</td>
   	<td align="center"><img src="https://icon.icepanel.io/Technology/svg/Apache.svg" alt="CentOS" width="48" height="48" /><br>Apache2</td>
