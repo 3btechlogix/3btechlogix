@@ -65,7 +65,7 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
       <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://www.svgrepo.com/show/349437/linux.svg" alt="icon" width="65" height="65" />
       <br>Linux
     </td>
     <td align="center" width="96">
@@ -73,8 +73,8 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/postgresql-icon.svg" alt="icon" width="65" height="65" />
-      <br>PostgreSQL
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
@@ -98,6 +98,12 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
       <img src="https://techstack-generator.vercel.app/graphic-icon.svg" alt="icon" width="65" height="65" />
       <br>Graphic Design
     </td>
+   
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>REST API
+    </td>
+   
   </tr>
 </table>
 
