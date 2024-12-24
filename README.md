@@ -1,6 +1,4 @@
 ## Hi there 👋
-Your provided content and the attached resume share similarities, but the resume contains more details about your professional history, skills, and projects. Below is an updated GitHub profile description based on your resume, while retaining the appealing structure of the original sample:
-
 ---
 <div align="justify">
 
