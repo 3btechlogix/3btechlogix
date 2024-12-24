@@ -3,7 +3,7 @@ Your provided content and the attached resume share similarities, but the resume
 
 ---
 
-<iframe src="https://lottie.host/embed/aa8e901f-5347-480f-9c4c-38a8826426de/6PHW9UhnwL.lottie"></iframe>
+<img src="https://lottie.host/embed/aa8e901f-5347-480f-9c4c-38a8826426de/6PHW9UhnwL.lottie" />
 
 <img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Zeeshan" title="👋 Hi there! I'm Zeeshan" />
 <div align="justify">
