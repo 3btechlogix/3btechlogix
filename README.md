@@ -66,9 +66,9 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
       <img src="https://www.svgrepo.com/show/349437/linux.svg" alt="icon" width="48" height="48" />
       <br>Linux
     </td>
-    <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="icon" width="48" height="48" />
-      <br>MongoDB
+   <td align="center" width="96">
+        <img src="https://icon.icepanel.io/Technology/svg/Oracle.svg" width="48" height="48" alt="Eclipse" />
+      <br>Oracle
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
@@ -80,6 +80,10 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+        <img src="https://icon.icepanel.io/Technology/svg/Apache-Tomcat.svg" width="48" height="48" alt="Tomcat" />
+      <br>Tomcat
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
       <br>GitHub
@@ -118,14 +122,23 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
       <br>Postman
     </td>
      </td>
-        <td align="center" width="96">
-        <img src="https://icon.icepanel.io/Technology/svg/Apache-Tomcat.svg" width="48" height="48" alt="Tomcat" />
-      <br>Tomcat
+     
+  </tr>
+ <tr>
+     
+    <td align="center" width="96">
+      <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="icon" width="48" height="48" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://icon.icepanel.io/Technology/svg/Eclipse-IDE.svg" width="48" height="48" alt="Eclipse" />
+      <br>Eclipse
     </td>
     
-
-    
-   
+    <td align="center" width="96">
+        <img src="https://icon.icepanel.io/Technology/svg/WordPress.svg" width="48" height="48" alt="Eclipse" />
+      <br>WordPress
+    </td>
   </tr>
 </table>
 
