@@ -64,7 +64,7 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
   <tr>
   	<td align="center"><img src="https://icon.icepanel.io/Technology/svg/Eclipse-IDE.svg" alt="Eclipse" width="48" height="48" /><br>Eclipse</td>
   	<td align="center"><img src="https://icon.icepanel.io/Technology/svg/WordPress.svg" alt="WordPress" width="48" height="48" /><br>WordPress</td>
-  	<td align="center"><img src="https://icon.icepanel.io/Technology/svg/WooCommerce.svg" alt="WooCommerce" width="48" height="48" /><br>WooCommerce</td>
+  	<td align="center"><img src="https://icon.icepanel.io/Technology/svg/WooCommerce.svg" alt="WooCommerce" width="48" height="48" /><br>Woo Commerce</td>
   	<td align="center"><img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="Vite.js" width="48" height="48" /><br>Vite.js</td>
   	<td align="center"><img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" alt="Ubuntu" width="48" height="48" /><br>Ubuntu</td>
   	<td align="center"><img src="https://www.freeradius.org/img/octo-signal.svg" alt="FreeRadius" width="48" height="48" /><br>FreeRadius</td>
