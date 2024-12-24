@@ -49,15 +49,19 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
       <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
    <td align="center" width="96">
-      <img src="[https://techstack-generator.vercel.app/nodejs-icon.svg](https://techstack-generator.vercel.app/aws-icon.svg)" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
     </td>
     <td align="center" width="96">
