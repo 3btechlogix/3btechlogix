@@ -117,6 +117,11 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
+     </td>
+        <td align="center" width="96">
+        <img src="https://icon.icepanel.io/Technology/svg/Apache-Tomcat.svg" width="48" height="48" alt="Tomcat" />
+      <br>Tomcat
+    </td>
     
 
     
