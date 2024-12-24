@@ -38,109 +38,101 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
 
 <table>
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
       <br>React
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="48" height="48" />
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node.js" width="48" height="48" />
       <br>Node.js
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="48" height="48" />
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
       <br>Java
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
       <br>Docker
     </td>
-   <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
       <br>AWS
     </td>
-    <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/349437/linux.svg" alt="icon" width="48" height="48" />
+    <td align="center">
+      <img src="https://www.svgrepo.com/show/349437/linux.svg" alt="Linux" width="48" height="48" />
       <br>Linux
     </td>
-   <td align="center" width="96">
-        <img src="https://icon.icepanel.io/Technology/svg/Oracle.svg" width="48" height="48" alt="Eclipse" />
+    <td align="center">
+      <img src="https://icon.icepanel.io/Technology/svg/Oracle.svg" alt="Oracle" width="48" height="48" />
       <br>Oracle
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="48" height="48" />
-      <br>Java
+    <td align="center">
+      <img src="https://icon.icepanel.io/Technology/svg/Apache-Tomcat.svg" alt="Tomcat" width="48" height="48" />
+      <br>Tomcat
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-        <img src="https://icon.icepanel.io/Technology/svg/Apache-Tomcat.svg" width="48" height="48" alt="Tomcat" />
-      <br>Tomcat
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" />
       <br>GitHub
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" />
       <br>HTML
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" />
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="48" height="48" />
+      <br>jQuery
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" />
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" width="48" height="48" />
       <br>Rest API
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="48" height="48" />
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="48" height="48" />
       <br>Webpack
     </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="48" height="48" />
-      <br>Eslint
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="ESLint" width="48" height="48" />
+      <br>ESLint
     </td>
-     </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" />
       <br>Postman
     </td>
-     </td>
-     
-  </tr>
- <tr>
-     
-    <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="icon" width="48" height="48" />
+    <td align="center">
+      <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="MongoDB" width="48" height="48" />
       <br>MongoDB
     </td>
-    <td align="center" width="96">
-        <img src="https://icon.icepanel.io/Technology/svg/Eclipse-IDE.svg" width="48" height="48" alt="Eclipse" />
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://icon.icepanel.io/Technology/svg/Eclipse-IDE.svg" alt="Eclipse" width="48" height="48" />
       <br>Eclipse
     </td>
-    
-    <td align="center" width="96">
-        <img src="https://icon.icepanel.io/Technology/svg/WordPress.svg" width="48" height="48" alt="Eclipse" />
+    <td align="center">
+      <img src="https://icon.icepanel.io/Technology/svg/WordPress.svg" alt="WordPress" width="48" height="48" />
       <br>WordPress
     </td>
   </tr>
 </table>
+
 
 ## Highlighted Projects 💻
 
