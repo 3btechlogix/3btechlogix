@@ -39,49 +39,49 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="48" height="48" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="48" height="48" />
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="48" height="48" />
       <br>Java
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
       <br>Docker
     </td>
    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
       <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/349437/linux.svg" alt="icon" width="65" height="65" />
+      <img src="https://www.svgrepo.com/show/349437/linux.svg" alt="icon" width="48" height="48" />
       <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="icon" width="65" height="65" />
+      <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="icon" width="48" height="48" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="48" height="48" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="48" height="48" />
       <br>Java
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="48" height="48" />
       <br>GitHub
     </td>
     <td align="center"  width="96">
@@ -101,19 +101,15 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
       <br>JQuery
     </td>
     <td align="center" width="96">
-      <img src="https://www.svgrepo.com/show/353935/jira.svg" alt="icon" width="65" height="65" />
-      <br>Jira
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" />
       <br>REST API
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="48" height="48" />
       <br>Webpack
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="48" height="48" />
       <br>Eslint
     </td>
     
