@@ -69,7 +69,7 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
       <br>Linux
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mongo-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="icon" width="65" height="65" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
@@ -87,7 +87,7 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/jira-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://www.svgrepo.com/show/353935/jira.svg" alt="icon" width="65" height="65" />
       <br>Jira
     </td>
     <td align="center" width="96">
