@@ -102,7 +102,7 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" />
-      <br>REST API
+      <br>Rest API
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="48" height="48" />
