@@ -3,8 +3,8 @@
 
 <img src="MuhammadZeeshanAslam.gif" alt="MuhammadZeeshanAslam" >
 <div align="justify">
-	<img src="https://img.shields.io/badge/50+-Projects_Completed-blue" width="250">
-	<img src="https://img.shields.io/badge/7+-Years_of_Exprience-blue" width="250">
+	<img src="https://img.shields.io/badge/50+-Projects_Completed-blue" height="50">
+	<img src="https://img.shields.io/badge/7+-Years_of_Exprience-blue" height="50">
 </div>
 <a href="https://www.linkedin.com/in/devzami/">
 </a>
