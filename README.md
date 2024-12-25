@@ -25,8 +25,6 @@
   <img src="https://img.shields.io/badge/TikTok-%23EE1D52.svg?style=flat-square&logo=TikTok&logoColor=white" height="30" />
 </a>
 
-
-
 <p align="justify">
 Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack Developer and Graphics Designer with over 7 years of experience and 50+ successful projects. I specialize in leveraging innovative technologies and delivering scalable solutions across diverse industries.
 </p>
