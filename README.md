@@ -1,7 +1,7 @@
 ## Hi there 👋
 ---
 
-<img src="MuhammadZeeshanAslam.gif" alt="MuhammadZeeshanAslam" >
+<img src="MuhammadZeeshanAslam.gif" alt="MuhammadZeeshanAslam" width='200px'>
 <a href="https://www.linkedin.com/in/devzami/">
 <img src="https://img.shields.io/badge/50+-Projects%20Completed-blue">
 </a>
