@@ -1,5 +1,4 @@
-<picture><img src="MuhammadZeeshanAslam.gif" alt="MuhammadZeeshanAslam"></picture>
----
+<picture><img src="MuhammadZeeshanAslam.gif" alt="MuhammadZeeshanAslam" style="display:flex"></picture>
 <picture><img src="https://img.shields.io/badge/7+-Years_of_Exprience-blue" alt="Exprience" height="30"></picture>
 <picture><img src="https://img.shields.io/badge/50+-Projects_Completed-blue" alt="Projects" height="30"></picture>
 ---
