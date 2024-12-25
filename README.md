@@ -6,7 +6,8 @@
 	<img src="https://img.shields.io/badge/7+-Years_of_Exprience-blue" alt="test1" height="30" style="pointer-events:none">
 </div>
 
-
+## Hi there 👋
+---
 <div align="justify">
 <a href="https://www.linkedin.com/in/devzami/"><img src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="30" /></a>
 <a href="https://twitter.com/devzami"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="30" /></a>
