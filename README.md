@@ -15,9 +15,6 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
 </p>
 
 ## My favorite tools and technologies ⚙️
-
-> Technologies and tools I frequently work with:
-
 <table>
 	<tr>
 		<td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /><br>React</td>
