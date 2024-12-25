@@ -1,7 +1,7 @@
 ## Hi there 👋
 ---
 
-<img src="https://raw.githubusercontent.com/devzami/devzami/main/signature_1.gif" >
+<img src="MuhammadZeeshanAslam.gif" alt="MuhammadZeeshanAslam" >
 
 <div align="justify">
 
