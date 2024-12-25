@@ -18,7 +18,7 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
 <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /><br>React</td>
 <td align="center"><img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" alt="Node.js" width="48" height="48" /><br>Node.js</td>
 <td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" /><br>Java</td>
-<td align="center"><img src="https://www.oracle.com/favicon.ico" alt="Oracle" width="48" height="48" /><br>Oracle</td>
+<td align="center"><img src="oracle.svg" alt="Oracle" width="48" height="48" /><br>Oracle</td>
 <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" /><br>MySQL</td>
 <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" width="48" height="48" /><br>Rest API</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" /><br>HTML</td>
