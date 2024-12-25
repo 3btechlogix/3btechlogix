@@ -5,6 +5,9 @@
 	<img src="https://img.shields.io/badge/50+-Projects_Completed-blue" alt="test" height="30" style="pointer-events:none">
 	<img src="https://img.shields.io/badge/7+-Years_of_Exprience-blue" alt="test1" height="30" style="pointer-events:none">
 </div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/devzami/)
+
 <div align="justify">
 <a href="https://www.linkedin.com/in/devzami/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
