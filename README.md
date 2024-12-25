@@ -5,7 +5,6 @@
 <p align="justify">
 Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack Developer and Graphics Designer with over 7 years of experience and 50+ successful projects. I specialize in leveraging innovative technologies and delivering scalable solutions across diverse industries.
 </p>
-<iframe src="https://facebook.com" width="800" height="600"></iframe>
 
 <a href="https://www.linkedin.com/in/devzami/"><img src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="30" /></a>
 <a href="https://twitter.com/devzami"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="30" /></a>
