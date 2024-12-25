@@ -89,7 +89,7 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
 
 ## GitHub Stats 📊
 
-| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=devzami&show_icons=true&hide_border=true&hide_title=true) | ![My Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devzami&layout=compact&show_icons=true&hide_border=true ) |
+| !https://github-readme-stats.vercel.app/api?username=devzami&show_icons=true&hide_border=true&hide_title=true | ![My Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devzami&layout=compact&show_icons=true&hide_border=true ) |
 | :--: | :--: |
 
 | [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devzami)](https://github.com/anuraghazra/github-readme-stats) | ![My Lang stats](https://github-readme-stats.vercel.app/api/pin?username=devzami&repo=freeRADIUS&layout=pie&show_icons=true&hide_border=true ) |
