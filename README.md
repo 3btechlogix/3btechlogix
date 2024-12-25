@@ -88,12 +88,7 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
 - **[Hazen](#)**: A job management solution for automating processes from quoting to invoicing.
 
 ## GitHub Stats 📊
-| | | 
-| :--: | :--: |
-| [`Git Hub Stats`](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) || [`Git Hub Stats`](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) |
-
 | | | |
 | :--: | :--: |
 | `default_repocard` ![default_repocard][default_repocard_repo] | `transparent` ![transparent][transparent_repo] |
-
 ---
