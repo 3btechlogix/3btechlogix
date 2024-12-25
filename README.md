@@ -2,8 +2,10 @@
 
 <picture><img src="https://img.shields.io/badge/7+-Years_of_Exprience-blue" alt="Exprience" height="30"></picture>
 <picture><img src="https://img.shields.io/badge/50+-Projects_Completed-blue" alt="Projects" height="30"></picture>
+<p align="justify">
+Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack Developer and Graphics Designer with over 7 years of experience and 50+ successful projects. I specialize in leveraging innovative technologies and delivering scalable solutions across diverse industries.
+</p>
 
-## My Social Media Handles ⚙️
 <a href="https://www.linkedin.com/in/devzami/"><img src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" height="30" /></a>
 <a href="https://twitter.com/devzami"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="30" /></a>
 <a href="https://www.facebook.com/devzami"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="30" /></a>
@@ -11,9 +13,6 @@
 <a href="https://www.instagram.com/devzami/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="30" /></a>
 <a href="https://www.tiktok.com/@devzami"><img src="https://img.shields.io/badge/TikTok-%23EE1D52.svg?style=for-the-badge&logo=TikTok&logoColor=white" height="30" /></a>
 ---
-<p align="justify">
-Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack Developer and Graphics Designer with over 7 years of experience and 50+ successful projects. I specialize in leveraging innovative technologies and delivering scalable solutions across diverse industries.
-</p>
 
 ## My favorite tools and technologies ⚙️
 <table>
