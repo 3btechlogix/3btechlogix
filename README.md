@@ -97,6 +97,18 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
 
 ## GitHub Stats 📊
 
+<table>
+	<tr>
+		<td><picture><img src="https://github-readme-stats.vercel.app/api?username=devzami&show_icons=true&hide_border=true&hide=stars,contribs&rank_icon=github" alt="GitHub Stats" /></picture></td>
+		<td><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzami&layout=compact&show_icons=true&hide_border=true" alt="Top Languages" /></picture></td>
+		<td>		
+			<a href="https://github.com/devzami/freeRADIUS">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=devzami&repo=freeRADIUS&show_icons=true&hide_border=true" alt="freeRADIUS Repo" />
+			</a>
+		</td>
+	</tr>
+</table>
+
 | <picture><img src="https://github-readme-stats.vercel.app/api?username=devzami&show_icons=true&hide_border=true&hide=stars,contribs&rank_icon=github" alt="GitHub Stats" /></picture> | <picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzami&layout=compact&show_icons=true&hide_border=true" alt="Top Languages" /></picture> | <a href="https://github.com/devzami/freeRADIUS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devzami&repo=freeRADIUS&show_icons=true&hide_border=true" alt="freeRADIUS Repo" /></a> |
 | :--: | :--: | :--: |
 
