@@ -91,6 +91,6 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
 
 |||
 | :--: | :--: |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true) |
+| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=devzami&theme=dark&show_icons=true&hide_border=true) | ![My Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devzami&theme=dark&show_icons=true&hide_border=true) |
 
 ---
