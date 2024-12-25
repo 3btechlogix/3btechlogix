@@ -6,52 +6,25 @@
 	<img src="https://img.shields.io/badge/7+-Years_of_Exprience-blue" alt="test1" height="30" style="pointer-events:none">
 </div>
 
+<a href="https://www.linkedin.com/in/devzami/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" height="30">
+</a>
 <a href="https://www.instagram.com/devzami/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" height="60">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" height="30">
+</a>
+<a href="https://www.instagram.com/devzami/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" height="30">
 </a>
 <a href="https://www.youtube.com/c/devzami">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" height="60">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" height="30">
 </a>
 <a href="https://twitter.com/devzami">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" height="60">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" height="30">
 </a>
 <a href="https://www.tiktok.com/@devzami">
-  <img src="https://img.shields.io/badge/TikTok-%23EE1D52.svg?style=flat-square&logo=TikTok&logoColor=white" height="60">
+  <img src="https://img.shields.io/badge/TikTok-%23EE1D52.svg?style=flat-square&logo=TikTok&logoColor=white" height="30">
 </a>
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yourusername/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/c/yourchannel)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
-[![TikTok](https://img.shields.io/badge/TikTok-%23EE1D52.svg?style=flat-square&logo=TikTok&logoColor=white)](https://www.tiktok.com/@yourusername)
-
-<div align="justify">
-<a href="https://www.linkedin.com/in/devzami/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/devzami/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/devzami">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/devzami">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/devzami/">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://gitlab.com/devzami">
-<img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-</a>
-
-</div>
-<p></p>
 <p align="justify">
 Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack Developer and Graphics Designer with over 7 years of experience and 50+ successful projects. I specialize in leveraging innovative technologies and delivering scalable solutions across diverse industries.
 </p>
