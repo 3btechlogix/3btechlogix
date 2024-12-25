@@ -12,7 +12,6 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
 <a href="https://www.youtube.com/c/devzami"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" height="30" /></a>
 <a href="https://www.instagram.com/devzami/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="30" /></a>
 <a href="https://www.tiktok.com/@devzami"><img src="https://img.shields.io/badge/TikTok-%23EE1D52.svg?style=for-the-badge&logo=TikTok&logoColor=white" height="30" /></a>
----
 
 ## My favorite tools and technologies ⚙️
 <table>
