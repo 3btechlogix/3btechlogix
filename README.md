@@ -88,7 +88,9 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
 - **[Hazen](#)**: A job management solution for automating processes from quoting to invoicing.
 
 ## GitHub Stats 📊
+
 | | | |
 | :--: | :--: |
 | `default_repocard` ![default_repocard][default_repocard_repo] | `transparent` ![transparent][transparent_repo] |
+
 ---
