@@ -1,5 +1,8 @@
 ## Hi there 👋
 ---
+
+<img src="https://raw.githubusercontent.com/devzami/devzami/main/signature_1.gif" >
+
 <div align="justify">
 
 <a href="https://www.instagram.com/devzami/">
