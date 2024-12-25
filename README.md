@@ -6,11 +6,6 @@
 	<img src="https://img.shields.io/badge/50+-Projects_Completed-blue" height="30">
 	<img src="https://img.shields.io/badge/7+-Years_of_Exprience-blue" height="30">
 </div>
-<a href="https://www.linkedin.com/in/devzami/">
-</a>
-<a href="https://www.linkedin.com/in/devzami/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
 <div align="justify">
 <a href="https://www.linkedin.com/in/devzami/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
