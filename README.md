@@ -1,5 +1,10 @@
 ## Hi there 👋
 ---
+<style>
+    img {
+        pointer-events: none;
+    }
+</style>
 
 <img src="MuhammadZeeshanAslam.gif" alt="MuhammadZeeshanAslam" >
 <div align="justify">
