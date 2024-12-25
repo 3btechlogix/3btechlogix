@@ -40,14 +40,6 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
 
 > Technologies and tools I frequently work with:
 
-| <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /><br>React | <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" alt="Node.js" width="48" height="48" /><br>Node.js | <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" /><br>Java | <img src="https://icon.icepanel.io/Technology/svg/Oracle.svg" alt="Oracle" width="48" height="48" /><br>Oracle | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" /><br>MySQL | <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest API" width="48" height="48" /><br>Rest API | <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" /><br>HTML | <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" /><br>CSS | <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" /><br>Bootstrap | <img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="48" height="48" /><br>jQuery |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" /><br>JavaScript | <img src="https://icon.icepanel.io/Technology/svg/Apache-Tomcat.svg" alt="Tomcat" width="48" height="48" /><br>Tomcat | <img src="https://icon.icepanel.io/Technology/svg/WordPress.svg" alt="WordPress" width="48" height="48" /><br>WordPress | <img src="https://icon.icepanel.io/Technology/svg/WooCommerce.svg" alt="WooCommerce" width="48" height="48" /><br>WooCommerce | <img src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="Vite.js" width="48" height="48" /><br>Vite.js | <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="48" height="48" /><br>GitHub | <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="Webpack" width="48" height="48" /><br>Webpack | <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="ESLint" width="48" height="48" /><br>ESLint | <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48" /><br>Postman | <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="MongoDB" width="48" height="48" /><br>MongoDB |
-| <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" /><br>Docker | <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" /><br>AWS | <img src="https://www.svgrepo.com/show/349437/linux.svg" alt="Linux" width="48" height="48" /><br>Linux | <img src="https://icon.icepanel.io/Technology/svg/Eclipse-IDE.svg" alt="Eclipse" width="48" height="48" /><br>Eclipse | <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" alt="Ubuntu" width="48" height="48" /><br>Ubuntu | <img src="https://www.freeradius.org/img/octo-signal.svg" alt="FreeRadius" width="48" height="48" /><br>FreeRadius | <img src="https://icon.icepanel.io/Technology/svg/Debian.svg" alt="Debian" width="48" height="48" /><br>Debian | <img src="https://icon.icepanel.io/Technology/svg/CentOS.svg" alt="CentOS" width="48" height="48" /><br>CentOS | <img src="https://icon.icepanel.io/Technology/svg/Apache.svg" alt="Apache" width="48" height="48" /><br>Apache | <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="48" height="48" /><br>Nginx |
-
-
-
-
 <table>
 	<tr>
 		<td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" /><br>React</td>
@@ -96,18 +88,6 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
 - **[Hazen](#)**: A job management solution for automating processes from quoting to invoicing.
 
 ## GitHub Stats 📊
-
-<table>
-	<tr>
-		<td><picture><img src="https://github-readme-stats.vercel.app/api?username=devzami&show_icons=true&hide_border=true&hide=stars,contribs&rank_icon=github" alt="GitHub Stats" /></picture></td>
-		<td><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzami&layout=compact&show_icons=true&hide_border=true" alt="Top Languages" /></picture></td>
-		<td>		
-			<a href="https://github.com/devzami/freeRADIUS">
-				<img src="https://github-readme-stats.vercel.app/api/pin/?username=devzami&repo=freeRADIUS&show_icons=true&hide_border=true" alt="freeRADIUS Repo" />
-			</a>
-		</td>
-	</tr>
-</table>
 
 | <picture><img src="https://github-readme-stats.vercel.app/api?username=devzami&show_icons=true&hide_border=true&hide=stars,contribs&rank_icon=github" alt="GitHub Stats" /></picture> | <picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzami&layout=compact&show_icons=true&hide_border=true" alt="Top Languages" /></picture> | <a href="https://github.com/devzami/freeRADIUS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=devzami&repo=freeRADIUS&show_icons=true&hide_border=true" alt="freeRADIUS Repo" /></a> |
 | :--: | :--: | :--: |
