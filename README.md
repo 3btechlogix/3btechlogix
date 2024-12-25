@@ -8,8 +8,8 @@
 
 <img src="MuhammadZeeshanAslam.gif" alt="MuhammadZeeshanAslam" >
 <div align="justify">
-	<img src="https://img.shields.io/badge/50+-Projects_Completed-blue" height="30">
-	<img src="https://img.shields.io/badge/7+-Years_of_Exprience-blue" height="30">
+	<img src="https://img.shields.io/badge/50+-Projects_Completed-blue" height="30" style="pointer-events:none">
+	<img src="https://img.shields.io/badge/7+-Years_of_Exprience-blue" height="30" style="pointer-events:none">
 </div>
 <div align="justify">
 <a href="https://www.linkedin.com/in/devzami/">
