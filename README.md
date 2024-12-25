@@ -6,6 +6,20 @@
 	<img src="https://img.shields.io/badge/7+-Years_of_Exprience-blue" alt="test1" height="30" style="pointer-events:none">
 </div>
 
+<a href="https://www.instagram.com/devzami/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" height="60">
+</a>
+<a href="https://www.youtube.com/c/devzami">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" height="60">
+</a>
+<a href="https://twitter.com/devzami">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" height="60">
+</a>
+<a href="https://www.tiktok.com/@devzami">
+  <img src="https://img.shields.io/badge/TikTok-%23EE1D52.svg?style=flat-square&logo=TikTok&logoColor=white" height="60">
+</a>
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/yourusername/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/c/yourchannel)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
