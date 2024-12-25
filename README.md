@@ -7,23 +7,24 @@
 </div>
 
 <a href="https://www.linkedin.com/in/devzami/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" />
+	<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" height="30" />
 </a>
 <a href="https://www.instagram.com/devzami/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" height="30" />
+  	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" height="30" />
 </a>
 <a href="https://www.instagram.com/devzami/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" height="30" />
+  	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" height="30" />
 </a>
 <a href="https://www.youtube.com/c/devzami">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" height="30" />
+  	<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" height="30" />
 </a>
 <a href="https://twitter.com/devzami">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" height="30" />
+ 	 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white" height="30" />
 </a>
 <a href="https://www.tiktok.com/@devzami">
-  <img src="https://img.shields.io/badge/TikTok-%23EE1D52.svg?style=flat-square&logo=TikTok&logoColor=white" height="30" />
+	  <img src="https://img.shields.io/badge/TikTok-%23EE1D52.svg?style=flat-square&logo=TikTok&logoColor=white" height="30" />
 </a>
+
 
 
 <p align="justify">
