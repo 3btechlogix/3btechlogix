@@ -1,6 +1,3 @@
-| | | |
-| :--: | :--: | :--: |
-
 ## Hi there 👋
 ---
 <img src="MuhammadZeeshanAslam.gif" alt="MuhammadZeeshanAslam" >
@@ -91,15 +88,8 @@ Welcome to my GitHub Page! I am Muhammad Zeeshan Aslam, a seasoned Full Stack De
 - **[Hazen](#)**: A job management solution for automating processes from quoting to invoicing.
 
 ## GitHub Stats 📊
-
-
-
-| <a href="https://github.com/anuraghazra/github-readme-stats">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy" alt="Anurag's github stats" /></a> | 
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy" />
-</a> |
-| ------------- | ------------- |
-
+| | | |
+| :--: | :--: | :--: |
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devzami)](https://github.com/devzami/github-readme-stats)
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=devzami&theme=ambient_gradient&show_icons=true)
 ![Your Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devzami&layout=compact&theme=buefy&show_icons=true)
